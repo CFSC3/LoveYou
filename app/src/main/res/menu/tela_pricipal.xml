@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/musica"
+            android:icon="@drawable/ic_musica"
+            android:title="Música" />
+
+        <item
+            android:id="@+id/emergencia"
+            android:icon="@drawable/ic_gostar"
+            android:title="Vales"
+            />
+
+        <item
+            android:id="@+id/mapa"
+            android:icon="@drawable/ic_mapa"
+            android:title="Mapa"
+            />
+
+</menu>

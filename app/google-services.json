@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031435617991",
+    "project_id": "loveyou-21e3d",
+    "storage_bucket": "loveyou-21e3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031435617991:android:8904f04bacef12d59f60e2",
+        "android_client_info": {
+          "package_name": "com.example.a0411"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkuibpVtvOvaOZrsdqfL8k4kCaFpr_lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

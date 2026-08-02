@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveYou</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyBCgV30Up9LeeZfA6qUOd0DXFblLzE33Tg</string>
+    <string name="title_activity_musica_atualizada">MusicaAtualizada</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Fullscreen\nContent</string>
+</resources>
