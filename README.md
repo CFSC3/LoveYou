@@ -10,7 +10,7 @@ Decidi manter o repositório original intacto como um dos marcos do meu início 
 
 ## ✨ O Que Mudou? (Destaques da Refatoração)
 
-A transição do *04-11* para o *LoveYou* contou com melhorias profundas em três pilares principais:
+A transição do *04-11* para o *LoveYou* contou com melhorias profundas em quatro pilares principais:
 
 ### 1. UI/UX e Identidade Visual
 * **Minimalismo e Contraste:** Substituição de longos textos explicativos por descrições curtas e diretas, melhorando a escaneabilidade.
@@ -28,11 +28,26 @@ A transição do *04-11* para o *LoveYou* contou com melhorias profundas em trê
 * **Migração para ExoPlayer:** Substituição do `MediaPlayer` padrão pelo `ExoPlayer` da Google, permitindo a leitura e reprodução simultânea de áudio e GIFs em loop diretamente de URLs em nuvem, de forma otimizada.
 * **Integração com Apps Terceiros:** Envio de "Tickets" via Intents nativas para WhatsApp e Telegram, utilizando `Uri.encode` para garantir a integridade de emojis e caracteres especiais nas mensagens.
 
+* ### 4. Redesign Completo do Player de Música
+* **Mídias Imersivas (Gifs Animados):** A tela "Sons e Sentimentos" foi totalmente reescrita para suportar GIFs dinâmicos renderizados como plano de fundo, criando uma experiência visual rica e imersiva.
+* **Contador de Tempo Real:** Criação e sincronização de uma Thread dedicada para atualizar a barra de progresso (`SeekBar`) e mostrar o tempo exato (atual e restante) da música, entregando o controle visual que faltava na versão anterior.
+* **Nova Identidade das Mídias:** Adição de novas personalidades visuais na tela de reprodução para acompanhar as músicas sorteáveis, unindo perfeitamente a frase, a arte animada e o áudio.
+
 ## 📱 Funcionalidades
 
 * **Sons e Sentimentos:** Um player imersivo que sorteia músicas significativas para o usuário juntamente com artes/gifs animados e frases românticas.
 * **Tickets Especiais:** Um sistema de "vales" surpresa (ex: "Vale um lanche especial") que o usuário pode sortear e enviar automaticamente pelo WhatsApp ou Telegram para pessoa amada.
 * **Lembranças e Momentos:** Uma integração com a API do Google Maps para revisitar restaurantes, passeios favoritos e descobrir novos destinos usando o botão de sorteio de rotas.
+
+* ## 📸 Screenshots
+
+<p align="center">
+  <!-- Substitua os links abaixo pelos links reais das suas imagens hospedadas no GitHub -->
+  <img src="link_da_imagem_onboarding.jpg" width="220" />
+  <img src="link_da_imagem_musica.jpg" width="220" />
+  <img src="link_da_imagem_tickets.jpg" width="220" />
+  <img src="link_da_imagem_mapa.jpg" width="220" />
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
