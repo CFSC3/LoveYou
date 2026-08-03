@@ -39,10 +39,9 @@ A transição do *04-11* para o *LoveYou* contou com melhorias profundas em quat
 * **Tickets Especiais:** Um sistema de "vales" surpresa (ex: "Vale um lanche especial") que o usuário pode sortear e enviar automaticamente pelo WhatsApp ou Telegram para pessoa amada.
 * **Lembranças e Momentos:** Uma integração com a API do Google Maps para revisitar restaurantes, passeios favoritos e descobrir novos destinos usando o botão de sorteio de rotas.
 
-* ## 📸 Screenshots
+## 📸 Screenshots
 
 <p align="center">
-  <!-- Substitua os links abaixo pelos links reais das suas imagens hospedadas no GitHub -->
   <img src="link_da_imagem_onboarding.jpg" width="220" />
   <img src="link_da_imagem_musica.jpg" width="220" />
   <img src="link_da_imagem_tickets.jpg" width="220" />
