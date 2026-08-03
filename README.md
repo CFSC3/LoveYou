@@ -56,7 +56,7 @@ A transição do *04-11* para o *LoveYou* contou com melhorias profundas em quat
   &nbsp;
   <img src="img/musica.jpg" width="220" />
   &nbsp;
-  <video src="https://github.com/CFSC3/LoveYou/raw/main/img/videoMusica.mp4" width="220" controls></video>
+  <img src="img/videoMusica.gif" width="220" />
   &nbsp;
   <img src="img/vales.jpg" width="220" />
   &nbsp;
