@@ -42,10 +42,33 @@ A transição do *04-11* para o *LoveYou* contou com melhorias profundas em quat
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="link_da_imagem_onboarding.jpg" width="220" />
-  <img src="link_da_imagem_musica.jpg" width="220" />
-  <img src="link_da_imagem_tickets.jpg" width="220" />
-  <img src="link_da_imagem_mapa.jpg" width="220" />
+  <img src="img/inicio.jpg" width="220" />
+  &nbsp;
+  <img src="img/apresentacao1.jpg" width="220" />
+  &nbsp;
+  <img src="img/apresentacao2.jpg" width="220" />
+  &nbsp;
+  <img src="img/apresentacao3.jpg" width="220" />
+  &nbsp;
+  <img src="img/apresentacao4.jpg" width="220" />
+  &nbsp;
+  <img src="img/homeMusica.jpg" width="220" />
+  &nbsp;
+  <img src="img/musica.jpg" width="220" />
+  &nbsp;
+  <video src="img/videoMusica.mp4" width="220" controls></video>
+  &nbsp;
+  <img src="img/vales.jpg" width="220" />
+  &nbsp;
+  <img src="img/valesTelegram.jpg" width="220" />
+  &nbsp;
+  <img src="img/mapa1.jpg" width="220" />
+  &nbsp;
+  <img src="img/mapa2.jpg" width="220" />
+  &nbsp;
+  <img src="img/mapa3.jpg" width="220" />
+  &nbsp;
+  <img src="img/mapa4.jpg" width="220" />
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
